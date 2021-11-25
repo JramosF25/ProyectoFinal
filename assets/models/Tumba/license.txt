@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spooky_Coffin
+* source:	https://sketchfab.com/3d-models/spooky-coffin-302f12b73b824be1aa145b45be5d4eae
+* author:	Offtop (https://sketchfab.com/Offtop)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spooky_Coffin" (https://sketchfab.com/3d-models/spooky-coffin-302f12b73b824be1aa145b45be5d4eae) by Offtop (https://sketchfab.com/Offtop) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Halloween Character "Billy the Pumpkin"
+* source:	https://sketchfab.com/3d-models/3d-halloween-character-billy-the-pumpkin-ebf5bea9caca46ffaf01714a78893f55
+* author:	Random Randal (https://sketchfab.com/Random_Randal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Halloween Character "Billy the Pumpkin"" (https://sketchfab.com/3d-models/3d-halloween-character-billy-the-pumpkin-ebf5bea9caca46ffaf01714a78893f55) by Random Randal (https://sketchfab.com/Random_Randal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Proyect CompuGrafica</title>
+    <link rel="stylesheet" href="/js/scripts.js">
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="author" content="Juan Jose Ramos F"> 
+</head>
+<body>
+
+ <audio src="./assets/ambSound.mp3" type="audio/mp3" loop autoplay></audio>
+ <div id="content">
+    <div class="hero" id="home">
+    <main class="main">
+            <div class="content-info">
+            <br>
+            <h1>Proyecto Final</h1>
+            <br>
+            <p>HOLA! <br> Mi nombre es Juan José Ramos F estudiante de 5 semestre de Ingeniería Multimedia en la Universidad San Buenaventura Cali y a continuación te presentaré mi trabajo final de la materia Computación Gráfica</p>
+            <br><br><br><br><br>
+            <div class="button-content">
+            <button class="btn-models">Proyecto</button>  
+            </div>
+            <br><br><br><br><br><br><br><br><br><br><br>
+            <div class="developers">
+                <h2>Developer: Juan Jose Ramos F - 64404</h2>
+            </div>
+        </div>
+            <div>
+            <img class="imgCala" src="./img/6029563.jpg" alt="jpg">
+                </div>
+        </main>
+        </div>
+    </div>
+    
+<script type="module">
+    import{main}from'/js/scripts.js';
+  
+
+    const recuplist=document.querySelectorAll('.btn-models');
+    let size ;
+
+
+    recuplist.forEach(optionSelected=>{ 
+        optionSelected.onclick=function(){
+        size= 40;
+        tooglecontent();
+        main(size);
+        }
+    });
+ 
+    function tooglecontent(){
+        content.style.display=content.style.display=='none'?'flex':'none';
+    }
+
+</script> 
+</body>
+</html>
